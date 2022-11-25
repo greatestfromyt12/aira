@@ -8,15 +8,7 @@
     <title>what if</title>
 </head>
 <body>
-    <button id="play">Play</button>
-    <script>
-        let play = document.getElementById("play");
-            function playMusic() {
-             let audio = new Audio("Jopay.mp3");
-             audio.play()
-          }
-          play.addEventListener("click", playMusic);
-    </script>
+    <audio controls autoplay src="Jopay.mp3"></audio>
     <div class="main" style="display: none;">
         <div class="cover">
             <div class="card">
