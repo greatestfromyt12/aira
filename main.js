@@ -8,14 +8,14 @@ while (true) {
     if(n == null) {
         main.style.display = "none";
         cancel.style.display = "flex";
-        msg.innerHTML = "tara ml open ka na";
+        msg.innerHTML = "hi love";
     }
 
     if (n.length > 0) {
         alert("what if tayo talaga?");
         alert('what if sakin ka talaga?');
 	alert('what if ipagdamot na kita?');
-	alert("what if kaya hindi tayo makahanap ng higit sa isa't isa");
+	alert("what if mahalin mo nako ng todo?");
 	alert('kasi tayo talaga?');
 	alert('minsan lang ako maging seryoso');
 	alert('lalo na sa mga bagay na alam kong sigurado');
