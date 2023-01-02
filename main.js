@@ -3,7 +3,7 @@ const cancel = document.querySelector('.cancel');
 const msg = document.querySelector('#msg');
 
 while (true) {
-    let n = prompt("g ka ba?");
+    let n = prompt("love mo bako?");
     
     if(n == null) {
         main.style.display = "none";
